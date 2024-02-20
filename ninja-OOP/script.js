@@ -21,4 +21,3 @@ let myNinja = new Ninja("Sasuke", 100);
 myNinja.sayName();
 myNinja.showStats();
 myNinja.drinkSake();
-myNinja.showStats();
